@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Event Planning Application</string>
+    <string name="set_date">Set Date</string>
+    <string name="save_event">Save Event</string>
+    <string name="add_task">Add Task</string>
+    <string name="event_location">Event Location</string>
+    <string name="event_description">Event Description</string>
+    <string name="event_title">Event Title</string>
+    <string name="task_description">Task Description</string>
+</resources>
